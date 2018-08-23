@@ -1676,3 +1676,4 @@ unset f
 addcompletions
 
 export ANDROID_BUILD_TOP=$(gettop)
+export BUILD_TOP=$(pwd)
